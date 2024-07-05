@@ -1,4 +1,4 @@
-##  Olá eu sou a Guilherme Darós, desenvolvedor de sistemas! 👋
+##  Olá eu me chamo Guilherme Darós, desenvolvedor de sistemas! 👋
 
 Código pronto, café esfriando  ☕
 
